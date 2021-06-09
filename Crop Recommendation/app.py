@@ -10,7 +10,7 @@ model=pickle.load(open('model.pkl','rb'))
 def home():
     return render_template('login.html')
 
-database = {'hayak':'salma','ikrus':'ronin'}
+database = {'ali':'khan'}
 
 @app.route('/form_login',methods=['POST','GET'])
 def login():
