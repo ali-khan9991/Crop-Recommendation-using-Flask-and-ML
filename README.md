@@ -1,4 +1,6 @@
 # Crop-Recommendation(https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
 Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you my analysis on dataset which would allow to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
 A website that Recommendation the crop with respect to the input('N', 'P', 'K', 'temperature', 'humidity', 'ph', 'rainfall') content Instructions for Vscode :
 
